@@ -106,6 +106,7 @@
 				6166C43B1691460F007777FD /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		6166C43B1691460F007777FD /* Products */ = {
 			isa = PBXGroup;
